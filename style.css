@@ -1,3 +1,10 @@
+body{
+    background-color: rgb(247, 225, 166);
+}
+img{
+    border: solid 3px red;
+}
+
 p{
     font-family: 微軟正黑體;
 }
